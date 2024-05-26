@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Basic Programs.iml" filepath="$PROJECT_DIR$/.idea/Basic Programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/For loop/For loop.iml" filepath="$PROJECT_DIR$/For loop/For loop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/If Else/If Else.iml" filepath="$PROJECT_DIR$/If Else/If Else.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Methods/Methods.iml" filepath="$PROJECT_DIR$/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Switch Case/Switch Case.iml" filepath="$PROJECT_DIR$/Switch Case/Switch Case.iml" />
+      <module fileurl="file://$PROJECT_DIR$/While Loop/While Loop.iml" filepath="$PROJECT_DIR$/While Loop/While Loop.iml" />
+    </modules>
+  </component>
+</project>
