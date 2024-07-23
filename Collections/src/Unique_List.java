@@ -20,5 +20,7 @@ public class Unique_List {
             }
         }
         System.out.println("Without Duplicate values: "+distinctlist);
+        System.out.println(Unique_List.i);
     }
+     static int i;
 }

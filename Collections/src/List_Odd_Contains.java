@@ -18,4 +18,13 @@ public class List_Odd_Contains {
         }
         return false;
     }
+
+    /*public static boolean check2(ArrayList<Integer> arr) {
+        for (Integer i : arr) {
+            if (i % 2 != 0) {
+                return true;
+            }
+        }
+        return false;
+    }*/
 }
