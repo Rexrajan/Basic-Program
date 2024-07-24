@@ -15,7 +15,7 @@ public class Unique_List {
         ArrayList<Integer> distinctlist = new ArrayList();
 
         for ( int i = 0; i < arrayList.size(); i ++){
-            if (! (distinctlist.contains(arrayList.get(i))) ){
+            if (! distinctlist.contains(arrayList.get(i))) {
                 distinctlist.add(arrayList.get(i));
             }
         }

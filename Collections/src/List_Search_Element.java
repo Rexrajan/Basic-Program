@@ -1,5 +1,5 @@
 import java.util.*;
-public class Search_Element {
+class List_Search_Element {
     public static void main(String[] args) {
         Scanner getvalue = new Scanner(System.in);
         ArrayList<Integer> element = new ArrayList();
