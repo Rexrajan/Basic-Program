@@ -11,5 +11,7 @@ public class List_2 {
         arr.set(3,22);
         System.out.println(arr.contains(80));
         System.out.println(arr.get(3));
+
+
     }
 }
