@@ -13,6 +13,7 @@ public class Set_Empty {
     }
 
     public static void empty(HashSet<String> in_method){
+
         in_method.clear();
     }
 }
